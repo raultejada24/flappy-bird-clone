@@ -2,7 +2,7 @@
 
 A browser game built with JavaScript Canvas, collision detection and game loops.
 
-## Run
+## Run instructions
 
 ```bash
 npm start
